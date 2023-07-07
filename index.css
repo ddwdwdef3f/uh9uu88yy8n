@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+.start{
+display: flex;
+justify-content: center;
+margin-right: 500px;
+}
+.text{
+    width: 500px;
+    margin-top: 200px;
+}
+
+
+.blocks{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.black{
+    width: 100px;
+    background-color:rebeccapurple;
+    border-radius: 10px;
+
+}
+body{
+  background-color: antiquewhite;
+}
+.border-text{
+    width: 500px;
+    
+    border-radius: 30px;
+    padding:10px;
+    font-size: 20px;
+}
